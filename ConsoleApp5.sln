@@ -15,7 +15,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "domaska12-1", "domaska12-1\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13. 2.", "13. 2\13. 2..csproj", "{E98A8A9C-F200-4340-BEFD-C2F17E7907F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson", "lesson\lesson.csproj", "{A2B88886-AFF7-4FFC-9999-518B5095633C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lesson", "lesson\lesson.csproj", "{A2B88886-AFF7-4FFC-9999-518B5095633C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "domaska 15-1  15-2", "domaska 15-1  15-2\domaska 15-1  15-2.csproj", "{8B0F4CD6-1D56-43B7-BB88-BC54AAF81A30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson 19-1", "lesson 19-1\lesson 19-1.csproj", "{313CC76D-01E0-4584-AB64-44C670F3365E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +55,14 @@ Global
 		{A2B88886-AFF7-4FFC-9999-518B5095633C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2B88886-AFF7-4FFC-9999-518B5095633C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2B88886-AFF7-4FFC-9999-518B5095633C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B0F4CD6-1D56-43B7-BB88-BC54AAF81A30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B0F4CD6-1D56-43B7-BB88-BC54AAF81A30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B0F4CD6-1D56-43B7-BB88-BC54AAF81A30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B0F4CD6-1D56-43B7-BB88-BC54AAF81A30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{313CC76D-01E0-4584-AB64-44C670F3365E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{313CC76D-01E0-4584-AB64-44C670F3365E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{313CC76D-01E0-4584-AB64-44C670F3365E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{313CC76D-01E0-4584-AB64-44C670F3365E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
